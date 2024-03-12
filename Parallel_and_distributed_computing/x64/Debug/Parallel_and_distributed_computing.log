@@ -1,0 +1,6 @@
+﻿  Parallel_and_distributed_computing.vcxproj -> C:\Users\nikolaos damianos\source\repos\Parallel_and_distributed_computing\x64\Debug\Parallel_and_distributed_computing.exe
+  Parallel_and_distributed_computing.vcxproj -> C:\Users\nikolaos damianos\source\repos\Parallel_and_distributed_computing\x64\Debug\Parallel_and_distributed_computing.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart*.dll" "C:\Users\nikolaos damianos\source\repos\Parallel_and_distributed_computing\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart32_91.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart64_91.dll
+          2 file(s) copied.
